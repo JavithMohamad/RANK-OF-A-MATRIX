@@ -14,6 +14,9 @@ Get the input matrix
 Print the result
 ## Program:
 ```
+#Program to find the rank of a matrix.
+#Developed by: Thanjiyappan.k
+#RegisterNumber:212222240108
 import numpy as np 
 A=np.array([[1,2,3],[3,6,9]])
 rank=np.linalg.matrix_rank(A)
